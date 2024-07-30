@@ -31,7 +31,11 @@
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug",
+<<<<<<< HEAD
             "executable": "D:/Autumn8_F-main/.pio/build/esp32doit-devkit-v1/firmware.elf",
+=======
+            "executable": "D:/Heimatverse/Clone git/Autumn8_F/.pio/build/esp32doit-devkit-v1/firmware.elf",
+>>>>>>> origin/main
             "projectEnvName": "esp32doit-devkit-v1",
             "toolchainBinDir": "C:/Users/srira/.platformio/packages/toolchain-xtensa-esp32/bin",
             "internalConsoleOptions": "openOnSessionStart",
@@ -44,7 +48,11 @@
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug (skip Pre-Debug)",
+<<<<<<< HEAD
             "executable": "D:/Autumn8_F-main/.pio/build/esp32doit-devkit-v1/firmware.elf",
+=======
+            "executable": "D:/Heimatverse/Clone git/Autumn8_F/.pio/build/esp32doit-devkit-v1/firmware.elf",
+>>>>>>> origin/main
             "projectEnvName": "esp32doit-devkit-v1",
             "toolchainBinDir": "C:/Users/srira/.platformio/packages/toolchain-xtensa-esp32/bin",
             "internalConsoleOptions": "openOnSessionStart"
@@ -53,7 +61,11 @@
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug (without uploading)",
+<<<<<<< HEAD
             "executable": "D:/Autumn8_F-main/.pio/build/esp32doit-devkit-v1/firmware.elf",
+=======
+            "executable": "D:/Heimatverse/Clone git/Autumn8_F/.pio/build/esp32doit-devkit-v1/firmware.elf",
+>>>>>>> origin/main
             "projectEnvName": "esp32doit-devkit-v1",
             "toolchainBinDir": "C:/Users/srira/.platformio/packages/toolchain-xtensa-esp32/bin",
             "internalConsoleOptions": "openOnSessionStart",
