@@ -1,0 +1,5 @@
+This task includes the routines of performing three major tasks  
+1.If Bluetooth is available, connect to it and handle communication.
+2.If only WiFi is available, connect to WiFi and turn off Bluetooth.
+3.If both WiFi and Bluetooth are available, connect to WiFi and ensure Bluetooth is disconnected.
+The verified output image and the detailed documentation of the task is attaches herewith.
