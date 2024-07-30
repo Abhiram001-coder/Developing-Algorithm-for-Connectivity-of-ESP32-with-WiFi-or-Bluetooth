@@ -8,8 +8,8 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "D:/Heimatverse/Clone git/Autumn8_F/include",
-                "D:/Heimatverse/Clone git/Autumn8_F/src",
+                "D:/Autumn8_F-main/include",
+                "D:/Autumn8_F-main/src",
                 "C:/Users/srira/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
                 "C:/Users/srira/.platformio/packages/framework-arduinoespressif32/libraries/BluetoothSerial/src",
                 "C:/Users/srira/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
@@ -244,8 +244,8 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "D:/Heimatverse/Clone git/Autumn8_F/include",
-                    "D:/Heimatverse/Clone git/Autumn8_F/src",
+                    "D:/Autumn8_F-main/include",
+                    "D:/Autumn8_F-main/src",
                     "C:/Users/srira/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
                     "C:/Users/srira/.platformio/packages/framework-arduinoespressif32/libraries/BluetoothSerial/src",
                     "C:/Users/srira/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
