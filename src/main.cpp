@@ -1,4 +1,3 @@
-
 #include <WiFi.h>
 #include "BluetoothSerial.h"
 #define WIFI_SSID "motowifi"

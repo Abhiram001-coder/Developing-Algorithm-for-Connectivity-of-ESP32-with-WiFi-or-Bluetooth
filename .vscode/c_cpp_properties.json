@@ -8,8 +8,8 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "D:/Autumn8_F-main/include",
-                "D:/Autumn8_F-main/src",
+                "D:/Heimatverse/ESP32 with WiFi and Bluetooth/include",
+                "D:/Heimatverse/ESP32 with WiFi and Bluetooth/src",
                 "C:/Users/srira/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
                 "C:/Users/srira/.platformio/packages/framework-arduinoespressif32/libraries/BluetoothSerial/src",
                 "C:/Users/srira/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
@@ -244,8 +244,8 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "D:/Autumn8_F-main/include",
-                    "D:/Autumn8_F-main/src",
+                    "D:/Heimatverse/ESP32 with WiFi and Bluetooth/include",
+                    "D:/Heimatverse/ESP32 with WiFi and Bluetooth/src",
                     "C:/Users/srira/.platformio/packages/framework-arduinoespressif32/libraries/WiFi/src",
                     "C:/Users/srira/.platformio/packages/framework-arduinoespressif32/libraries/BluetoothSerial/src",
                     "C:/Users/srira/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
@@ -479,7 +479,7 @@
                 ]
             },
             "defines": [
-                "PLATFORMIO=60115",
+                "PLATFORMIO=60116",
                 "ARDUINO_ESP32_DEV",
                 "HAVE_CONFIG_H",
                 "MBEDTLS_CONFIG_FILE=\"mbedtls/esp_config.h\"",
